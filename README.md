@@ -1,8 +1,21 @@
-# React + Vite
+## **🛍 ShopNest - E-commerce Web App**  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**ShopNest** is a stylish and user-friendly e-commerce web application built with **React, Redux, and Material UI**. It allows users to browse products, add them to the cart, and proceed to checkout seamlessly.  
 
-Currently, two official plugins are available:
+### **🚀 Features**  
+✅ **Modern UI** with Material UI styling  
+✅ **Redux-powered cart management**  
+✅ **Dynamic Cart Page** with item details and removal option  
+✅ **Billing Page** with automatic scroll-to-top on navigation  
+✅ **Responsive & Mobile-Friendly Design**  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### **📦 Tech Stack**  
+- React.js  
+- Redux Toolkit  
+- React Router  
+- Material UI  
+
+### **📌 Usage**  
+- Add products to the cart  
+- View cart details & remove items  
+- Click **"Proceed to Checkout"** to navigate to the billing page  
